@@ -35,6 +35,10 @@ background-repeat: no-repeat;
   margin-left: 5rem;
 }
 
+.main-part{
+  overflow-y:scroll ;
+}
+
 .voice{
   background-color: white;
   width: 16vw;
@@ -402,5 +406,19 @@ a{
 .submit{
   margin-left: 30rem;
   margin-top: 1rem;
+}
+
+
+
+.line{
+  margin-top: 25rem;
+  
+  width: 70rem;
+  margin-left: 9rem;
+}
+
+.end{
+  margin-top: 1rem;
+  margin-left: 9rem;
 }
 
